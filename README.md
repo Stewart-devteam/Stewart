@@ -20,8 +20,8 @@ El jugador acompaña a **Stewart**, un alce autoproclamado caballero, junto a su
 ### Requerimientos
 - **Motor:** Godot 4.5
 - **Control de versiones:** Git + GitHub
-- **Arte:** [pendiente definir]
-- **Música y SFX:** LMMS, Audacity
+- **Arte:** Aseprite, Libresprite y Krita
+- **Música y SFX:** LMMS y/o Audacity
 - **Otros:** Notion, editor de código y acceso al grupo del proyecto, entre otros
 
 ### Contribución
@@ -46,6 +46,7 @@ El jugador acompaña a **Stewart**, un alce autoproclamado caballero, junto a su
     ```
 
 3. Abre un Pull Request para revisión.
+4. También puedes usar **GitHub Desktop** para gestionar todo esto de forma más sencilla.
 
 ### Enlaces útiles (necesitas acceso)
 - **GDD:** https://docs.google.com/document/d/1jrDW4vd1ge5S5XTILKQW_5espn0hl2coOg6awwllIRQ
@@ -54,6 +55,6 @@ El jugador acompaña a **Stewart**, un alce autoproclamado caballero, junto a su
 
 ---
 
-> [!Note] Licencia
+> **Licencia**
 > 
 > El ccódigo fuente y los assets-elementos creativos están bajo las licencias [MIT](./LICENSE) y [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](./ASSETS_LICENSE) respectivamente.
