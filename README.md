@@ -48,10 +48,7 @@ El jugador acompaña a **Stewart**, un alce autoproclamado caballero, junto a su
 3. Abre un Pull Request para revisión.
 4. También puedes usar **GitHub Desktop** para gestionar todo esto de forma más sencilla.
 
-### Enlaces útiles (necesitas acceso)
-- **GDD:** https://docs.google.com/document/d/1jrDW4vd1ge5S5XTILKQW_5espn0hl2coOg6awwllIRQ
-- **Notion:** https://www.notion.so/Stewart-P-gina-principal-26f8a565a0fb80a69e55d0045bb5d57e
-- **Unidad compartida de Drive:** https://drive.google.com/drive/folders/0AEPlbdLIBllPUk9PVA
+> **Linktree**: https://linktr.ee/Stewart_devs
 
 ---
 
