@@ -3,15 +3,14 @@
 
 El jugador acompaña a **Stewart**, un alce autoproclamado caballero, junto a sus amigos **Zarah** y **Gabi**, en un viaje épico y ridículo a través de siete reinos llenos de misterios, humor y trasfondo oscuro.
 
-> Inspirado en obras como *Deltarune*, *Hollow Knight* y *The Valiant Prince Ivandoe*.
+Inspirado en obras como *Deltarune*, *Hollow Knight* y *The Valiant Prince Ivandoe*.
 
----
-
-## Resumen del Proyecto
-- **Género:** RPG, aventura, fantasía, comedia.
-- **Audiencia:** Adolescentes y adultos (+13).
-- **Plataformas previstas:** Windows, Linux, MacOS (posible versión móvil).
-- **Estado actual:** En desarrollo (fase de prototipo).
+> [!Note] Resumen del Proyecto
+> 
+> - **Género:** RPG, aventura, fantasía, comedia.
+> - **Audiencia:** Adolescentes y adultos (+13).
+> - **Plataformas previstas:** Windows, Linux, MacOS (posible versión móvil).
+> - **Estado actual:** En desarrollo (fase de prototipo).
 
 ---
 
@@ -39,19 +38,21 @@ El jugador acompaña a **Stewart**, un alce autoproclamado caballero, junto a su
     ```
 
 3. Haz commit de tus cambios (se recomienda seguir la especificación de [Commits Convencionales](https://www.conventionalcommits.org/en/v1.0.0/)).
-2. Sube los cambios a tu rama:
+4. Sube los cambios a tu rama:
 
     ```bash
     git push origin <nombre-de-la-rama>
     ```
 
-3. Abre un Pull Request para revisión.
-4. También puedes usar **GitHub Desktop** para gestionar todo esto de forma más sencilla.
-
-> **Linktree**: https://linktr.ee/Stewart_devs
+5. Abre un Pull Request para revisión.
+6. También puedes usar **GitHub Desktop** para gestionar todo esto de forma más sencilla.
 
 ---
 
-> **Licencia**
+> [!Note] Linktree
 > 
-> El ccódigo fuente y los assets-elementos creativos están bajo las licencias [MIT](./LICENSE) y [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](./ASSETS_LICENSE) respectivamente.
+> https://linktr.ee/Stewart_devs
+
+> [!Warning] Licencia
+> 
+> El código fuente y los assets-elementos creativos están bajo las licencias [MIT](./LICENSE) y [CC BY-NC 4.0](./ASSETS_LICENSE) respectivamente.
