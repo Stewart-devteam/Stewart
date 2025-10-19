@@ -5,7 +5,7 @@ El jugador acompaña a **Stewart**, un alce autoproclamado caballero, junto a su
 
 Inspirado en obras como *Deltarune*, *Hollow Knight* y *The Valiant Prince Ivandoe*.
 
-> [!Note] Resumen del Proyecto
+> ## **Resumen del Proyecto**
 > 
 > - **Género:** RPG, aventura, fantasía, comedia.
 > - **Audiencia:** Adolescentes y adultos (+13).
@@ -17,10 +17,10 @@ Inspirado en obras como *Deltarune*, *Hollow Knight* y *The Valiant Prince Ivand
 ## Desarrollo
 
 ### Requerimientos
-- **Motor:** Godot 4.5
+- **Motor:** Godot 4.5 (opcional: usa la versión C#)
 - **Control de versiones:** Git + GitHub
-- **Arte:** Aseprite, Libresprite y Krita
-- **Música y SFX:** LMMS y/o Audacity
+- **Arte:** Pixieditor y algún programa de dibujo
+- **Música y SFX:** FL Studio u otro editor
 - **Otros:** Notion, editor de código y acceso al grupo del proyecto, entre otros
 
 ### Contribución
@@ -45,14 +45,11 @@ Inspirado en obras como *Deltarune*, *Hollow Knight* y *The Valiant Prince Ivand
     ```
 
 5. Abre un Pull Request para revisión.
-6. También puedes usar **GitHub Desktop** para gestionar todo esto de forma más sencilla.
+6. Puedes usar **GitHub Desktop** para gestionar todo esto de forma más sencilla.
 
 ---
 
-> [!Note] Linktree
-> 
-> https://linktr.ee/Stewart_devs
+## Licencia
+El código fuente y los assets-elementos creativos están bajo las licencias [MIT](./LICENSE) y [CC BY-NC 4.0](./ASSETS_LICENSE) respectivamente.
 
-> [!Warning] Licencia
-> 
-> El código fuente y los assets-elementos creativos están bajo las licencias [MIT](./LICENSE) y [CC BY-NC 4.0](./ASSETS_LICENSE) respectivamente.
+Los créditos del juego corresponden a [sus contribuidores](./ASSETS_LICENSE#contribuidores)
