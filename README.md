@@ -3,7 +3,7 @@
 
 El jugador acompaña a **Stewart**, un alce autoproclamado caballero, junto a sus amigos **Zarah** y **Gabi**, en un viaje épico y ridículo a través de siete reinos llenos de misterios, humor y trasfondo oscuro.
 
-Inspirado en obras como *Deltarune*, *Hollow Knight* y *The Valiant Prince Ivandoe*.
+Inspirado en *Deltarune*, *Hollow Knight* y *The Valiant Prince Ivandoe*, entre otros.
 
 > ## **Resumen del Proyecto**
 > 
@@ -52,4 +52,4 @@ Inspirado en obras como *Deltarune*, *Hollow Knight* y *The Valiant Prince Ivand
 ## Licencia
 El código fuente y los assets-elementos creativos están bajo las licencias [MIT](./LICENSE) y [CC BY-NC 4.0](./ASSETS_LICENSE) respectivamente.
 
-Los créditos del juego corresponden a [sus contribuidores](./ASSETS_LICENSE#contribuidores)
+Los créditos del juego corresponden al equipo [Stewart DevTeam](./ASSETS_LICENSE#miembros-del-equipo-stewart-devteam), un equipo de GDD (antes *UN Games*) de la Universidad Nacional de Colombia.
