@@ -1,3 +1,7 @@
+# System files
+.DS_Store
+Thumbs.db
+
 # Godot 4+ specific ignores
 .godot/
 .nomedia
@@ -18,3 +22,7 @@ mono_crash.*.json
 
 # VS Code
 .vscode/
+
+# Environment files
+*.env
+.env.*
