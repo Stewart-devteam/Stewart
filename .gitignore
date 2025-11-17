@@ -20,8 +20,22 @@ export_credentials.cfg
 data_*/
 mono_crash.*.json
 
-# VS Code
+# IDEs
 .vscode/
+.idea/
+
+# Rider ignores
+
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Rider ignored files
+/.idea.Stewart.iml
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+
 
 # Environment files
 *.env
